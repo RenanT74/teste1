@@ -3,4 +3,4 @@
 
  Seguindo o curso do Guanabara, confia
 
-Adicionei a linha no site, é muita tecnologia
+Adicionei essa linha no site, é muita tecnologia
